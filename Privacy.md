@@ -83,7 +83,7 @@ We may update this Privacy Policy if the app's functionality or the way informat
 
 The latest version of this Privacy Policy will always be available at:
 
-[Privacy Policy URL]
+https://teqnetapps.github.io/europahuvudstad/privacy.md
 
 The date of the latest update is shown at the top of this policy.
 
